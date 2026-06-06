@@ -4,3 +4,6 @@ torch
 scikit-learn
 pandas
 ipykernel
+torchvision
+albumentations
+cuda
